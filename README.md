@@ -2,7 +2,7 @@
 - user set app mode
 - press START
 - if the user hovers on the square - it turns blue
-- if the user hovers on the blue square - it turns white
+- if the user hovers on the blue square - it turns black
 - show hover squares
 
 ## Side note
