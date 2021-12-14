@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/snake-maze/static/css/main.71ac589d.chunk.css",
-    "main.js": "/snake-maze/static/js/main.7d27590c.chunk.js",
-    "main.js.map": "/snake-maze/static/js/main.7d27590c.chunk.js.map",
+    "main.js": "/snake-maze/static/js/main.b3728c79.chunk.js",
+    "main.js.map": "/snake-maze/static/js/main.b3728c79.chunk.js.map",
     "runtime-main.js": "/snake-maze/static/js/runtime-main.a22a206a.js",
     "runtime-main.js.map": "/snake-maze/static/js/runtime-main.a22a206a.js.map",
     "static/js/2.72fafcf3.chunk.js": "/snake-maze/static/js/2.72fafcf3.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.a22a206a.js",
     "static/js/2.72fafcf3.chunk.js",
     "static/css/main.71ac589d.chunk.css",
-    "static/js/main.7d27590c.chunk.js"
+    "static/js/main.b3728c79.chunk.js"
   ]
 }
