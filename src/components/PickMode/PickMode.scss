@@ -1,0 +1,38 @@
+@import '../../lib/vars.scss';
+
+.PickMode {
+  &__picker {
+    padding: 12px 46px 12px 10px;
+    margin-right: 16px;
+    border: 1px solid;
+
+    background-color: transparent;
+  }
+
+  &__button {
+    height: 80px;
+    width: 80px;
+    border-radius: 50%;
+
+    background-color: $c-dark-blue;
+    color: $c-white-gray;
+
+    transition: background-color 0.1s ease;
+
+    &:hover {
+      background-color: lighten($c-dark-blue, 10%);
+    }
+  }
+
+  &__error {
+    position: fixed;
+    right: 80px;
+    bottom: 60px;
+
+    padding: 20px;
+    border-radius: 2px;
+
+    background-color: $c-orange-red;
+    color: $c-white-gray;
+  }
+}

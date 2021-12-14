@@ -1,0 +1,25 @@
+@import '../../lib/vars.scss';
+
+.HoverCells {
+  &__title {
+    font-size: 28px;
+    margin-bottom: 12px;
+  }
+
+  &__cells {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+  }
+
+  &__cell-info {
+    padding: 18px;
+    border: 2px solid $c-light-yellow;
+    border-radius: 4px;
+
+    background-color: $c-yellow-bg;
+    color: $c-brown-yellow;
+
+    font-weight: bold;
+  }
+}

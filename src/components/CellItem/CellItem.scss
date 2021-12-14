@@ -1,0 +1,15 @@
+@import '../../lib/vars.scss';
+
+.CellItem {
+  padding: 8px;
+
+  border: 1px solid $c-pure-black;
+
+  background-color: $c-dark-black;
+
+  cursor: pointer;
+
+  &--hovered {
+    background-color: $c-light-blue;
+  }
+}
