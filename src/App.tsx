@@ -14,7 +14,7 @@ import './App.scss';
 
 const App = () => {
   const [cellsNumber, setCellsNumber] = useState(0);
-  const [mode, error] = useFetch<ModeInfo>('http://demo1030918.mockable.io/');
+  const [mode, error] = useFetch<ModeInfo>('https://demo1030918.mockable.io/');
 
   const dispatch = useDispatch();
 
